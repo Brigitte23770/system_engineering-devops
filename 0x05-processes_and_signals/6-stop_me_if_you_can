@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 #The objective of this task is to ensure you can identify and stop a running process (specifically your 4-to_infinity_and_beyond script from a previous task) using a method other than kill or killall.
-echo "Please kill the 4-to_infinity_and_beyond process manually."
+echo "Please kill the '4-to_infinity_and_beyond' process manually."
